@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;700;900&display=swap');
+
+*{
+    margin: 0%;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+     /* !Styling for navber */
+
+.navber{
+    height:auto;
+    width: 70%;
+    margin: auto;
+    background: #282c34;
+    padding: 30px 0px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    text-shadow: 2px 2px rgb(86, 81, 81);
+    box-shadow: 3px 3px 26px rgb(91, 86, 86);
+}

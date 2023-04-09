@@ -1,0 +1,33 @@
+.task{
+    display: flex;
+    flex-direction: column;
+    background: #282c34;
+    color: rgb(255, 248, 192);
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    gap: 10px;
+    font-size: 20px;
+}
+
+.title{
+    color: pink;
+}
+
+.logo{
+    color: rgb(255, 0, 43);
+    
+}
+.btn{
+    background: #282c34;
+    padding: 0px;
+    margin: 0px
+}
+
+  /* !Style for buttons */
+
+  .buttons{
+    display: flex;
+    gap: 7px;
+  }
